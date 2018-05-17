@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:1059px;
+  width:375px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -12,12 +12,12 @@
   position:absolute;
   z-index:0;
 }
-#u352_div {
+#u346_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:320px;
+  width:350px;
   height:136px;
   background:inherit;
   background-color:rgba(242, 242, 242, 1);
@@ -28,16 +28,16 @@
   box-shadow:none;
   color:#FFFFFF;
 }
-#u352 {
+#u346 {
   border-width:0px;
   position:absolute;
-  left:28px;
+  left:13px;
   top:59px;
-  width:320px;
+  width:350px;
   height:136px;
   color:#FFFFFF;
 }
-#u352_text {
+#u346_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -46,32 +46,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u353_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:598px;
-  height:288px;
-}
-#u353 {
-  border-width:0px;
-  position:absolute;
-  left:461px;
-  top:108px;
-  width:598px;
-  height:288px;
-}
-#u353_text {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
-#u354 {
+#u347 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -79,7 +54,7 @@
   width:0px;
   height:0px;
 }
-#u355_div {
+#u348_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -95,7 +70,7 @@
   box-shadow:none;
   color:#FFFFFF;
 }
-#u355 {
+#u348 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -104,7 +79,7 @@
   height:50px;
   color:#FFFFFF;
 }
-#u355_text {
+#u348_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -113,7 +88,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u356_div {
+#u349_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -132,7 +107,7 @@
   font-style:normal;
   font-size:14px;
 }
-#u356 {
+#u349 {
   border-width:0px;
   position:absolute;
   left:159px;
@@ -144,7 +119,7 @@
   font-style:normal;
   font-size:14px;
 }
-#u356_text {
+#u349_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -152,7 +127,7 @@
   width:71px;
   white-space:nowrap;
 }
-#u357_div {
+#u350_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -171,7 +146,7 @@
   font-style:normal;
   font-size:14px;
 }
-#u357 {
+#u350 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -183,7 +158,7 @@
   font-style:normal;
   font-size:14px;
 }
-#u357_text {
+#u350_text {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -191,7 +166,7 @@
   width:46px;
   word-wrap:break-word;
 }
-#u358_div {
+#u351_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -208,7 +183,7 @@
   font-size:36px;
   color:#1E1E1E;
 }
-#u358 {
+#u351 {
   border-width:0px;
   position:absolute;
   left:325px;
@@ -218,7 +193,7 @@
   font-size:36px;
   color:#1E1E1E;
 }
-#u358_text {
+#u351_text {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -226,7 +201,7 @@
   width:46px;
   word-wrap:break-word;
 }
-#u359_img {
+#u352_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -234,7 +209,7 @@
   width:300px;
   height:92px;
 }
-#u359 {
+#u352 {
   border-width:0px;
   position:absolute;
   left:38px;
@@ -242,7 +217,7 @@
   width:300px;
   height:92px;
 }
-#u359_text {
+#u352_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -251,7 +226,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u360_div {
+#u353_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -271,7 +246,7 @@
   font-size:12px;
   color:#999999;
 }
-#u360 {
+#u353 {
   border-width:0px;
   position:absolute;
   left:38px;
@@ -284,7 +259,7 @@
   font-size:12px;
   color:#999999;
 }
-#u360_text {
+#u353_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -292,7 +267,7 @@
   width:300px;
   word-wrap:break-word;
 }
-#u361_div {
+#u354_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -307,7 +282,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u361 {
+#u354 {
   border-width:0px;
   position:absolute;
   left:265px;
@@ -315,7 +290,7 @@
   width:64px;
   height:22px;
 }
-#u361_text {
+#u354_text {
   border-width:0px;
   position:absolute;
   left:2px;
